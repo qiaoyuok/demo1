@@ -1,5 +1,5 @@
 <?php
-namespace Sunqiaoyu\Dd;
+namespace Sunqiaoyu\Demo1;
 
 class Dd{
     public function dd($params)
