@@ -7,5 +7,3 @@ class Dd{
         var_dump($params);
     }
 }
-
-ssh-keygen -t rsa -C "1589946526@qq.com"
