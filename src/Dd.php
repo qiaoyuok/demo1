@@ -10,6 +10,6 @@ class Dd{
     public function demoCurl()
     {
         $curl = new \Curl\Curl();
-        $curl->get('https://fix.mysvip.cn/');
+        return $curl->get('https://fix.mysvip.cn/');
     }
 }
