@@ -11,5 +11,7 @@
             "email": "1589946526@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "curl/curl": "^2.3"
+    }
 }

@@ -6,4 +6,10 @@ class Dd{
     {
         var_dump($params);
     }
+
+    public function demoCurl()
+    {
+        $curl = new \Curl\Curl();
+        $curl->get('https://fix.mysvip.cn/');
+    }
 }
