@@ -1,0 +1,15 @@
+{
+    "name": "sunqiaoyu/demo1",
+    "autoload": {
+        "psr-4": {
+            "Sunqiaoyu\\Demo1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qiaoyuok",
+            "email": "1589946526@qq.com"
+        }
+    ],
+    "require": {}
+}
